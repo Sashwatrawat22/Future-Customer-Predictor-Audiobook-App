@@ -12,5 +12,5 @@ The targets are a Boolean variable (so 0, or 1). We are taking a period of 2 yea
 
 The Task 
 
-create a machine learning algorithm, which is able to predict if a customer will buy again.
+Create a Machine Learning Model, which is able to predict if a customer will buy again.
 (This is a classification problem with two classes: won't buy and will buy, represented by 0s and 1s.)
